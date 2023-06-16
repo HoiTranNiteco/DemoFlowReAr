@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShellDemo", "ShellDemo\ShellDemo.csproj", "{138A7BD3-E51C-438B-BB6F-214EB2FF2839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFFdemo", "BFFdemo\BFFdemo.csproj", "{C6766EA6-09C9-4706-837C-2F26BD39F7AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMDemo", "CRMDemo\CRMDemo.csproj", "{864C65F8-9A53-44FE-99A4-DDF73F969898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{138A7BD3-E51C-438B-BB6F-214EB2FF2839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138A7BD3-E51C-438B-BB6F-214EB2FF2839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138A7BD3-E51C-438B-BB6F-214EB2FF2839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138A7BD3-E51C-438B-BB6F-214EB2FF2839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6766EA6-09C9-4706-837C-2F26BD39F7AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6766EA6-09C9-4706-837C-2F26BD39F7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6766EA6-09C9-4706-837C-2F26BD39F7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6766EA6-09C9-4706-837C-2F26BD39F7AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{864C65F8-9A53-44FE-99A4-DDF73F969898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864C65F8-9A53-44FE-99A4-DDF73F969898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864C65F8-9A53-44FE-99A4-DDF73F969898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864C65F8-9A53-44FE-99A4-DDF73F969898}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EDA11EF-3A27-40C1-8D7E-126106962FAF}
+	EndGlobalSection
+EndGlobal
